@@ -1,2 +1,3 @@
 elasticsearch==7.10.1
 SQLAlchemy==1.2.9
+pyhttpproxifier==0.9.3
