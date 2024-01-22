@@ -1,4 +1,4 @@
-elasticsearch==7.10.1
+elasticsearch==8.12.0
 SQLAlchemy==1.2.9
 pyhttpproxifier==0.9.3
 -r subrequirements.txt
